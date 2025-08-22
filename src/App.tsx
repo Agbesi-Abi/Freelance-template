@@ -8,6 +8,7 @@ import Skills from './components/Skills';
 import Contact from './components/Contact';
 import FooterImageSection from './components/FooterImageSection';
 import FloatingWhatsapp from './components/whatsapp';
+import Footer from './components/Footer';
 
 function App() {
   return (
@@ -20,7 +21,8 @@ function App() {
       <Skills />
       <FooterImageSection />
       <Contact />
-      <FloatingWhatsapp />
+  <FloatingWhatsapp />
+  {/* <Footer /> */}
     </div>
   );
 }
