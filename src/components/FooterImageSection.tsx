@@ -19,10 +19,10 @@ const FooterImageSection = () => {
         transition={{ duration: 0.8 }}
       >
         <h2 className="text-2xl md:text-4xl font-bold text-white">
-          Let’s Build Something Amazing Together 🚀
+          Let’s Build 
         </h2>
         <p className="mt-2 text-gray-200 text-sm md:text-base">
-          Bringing ideas to life with modern, scalable design & development
+          Something Amazing Together
         </p>
       </motion.div>
 
